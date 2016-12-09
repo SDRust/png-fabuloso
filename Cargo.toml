@@ -1,0 +1,9 @@
+[package]
+name = "pngstogram"
+version = "0.1.0"
+authors = ["Xavier Lange <xrlange@gmail.com>"]
+
+[dependencies]
+flate2 = "0.2"
+"byteorder" = "*"
+"crc" = "^1.0.0"
